@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background: #ffedbf;
+}
+
+#header1 {
+  background: darkslategray;
+  color: white;
+}
+#header {
+  background-color: bisque;
+  color: black;
+}
